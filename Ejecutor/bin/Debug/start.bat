@@ -1,0 +1,2 @@
+Ejecutor.exe res
+pause

@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1650144598 source:c:\users\fran\documents\codigo\2021\totlizadores_parciales\final viejo bis\ejecutor\main.c
+	<stdio.h>
+	"string.h"
+
+1650241318 source:c:\users\acer\desktop\arq. de computadoras\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1650243056 source:g:\downloads\ejecutor (1)\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1650244368 source:c:\users\acer\desktop\arq. de computadoras\ejecutorvf\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1652761773 source:d:\programasc\maquinavirtual\loquepasonome\ejecutor\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1653001037 source:c:\users\acer\desktop\arq. de computadoras\maquinavirtual\maquinavirtual\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1653358660 source:c:\users\administrator\documents\arquitectura de computadoras\mv\maquinavirtual (1)\maquinavirtual\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1653364012 source:d:\facultad\arquitectura\cristiaaan\maquinavirtual\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1653789907 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\mv2\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1653663632 source:d:\facultad\arquitectura\mv2\ejecutor\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1653863911 source:d:\facultad\arquitectura\mv2final\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1653870605 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\mv2final\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1653936293 source:d:\facultad\arquitectura\mv2final\mv2final\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1653939765 source:c:\users\acer\desktop\arq. de computadoras\marto\mv2final (1)\mv2final\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1653945122 source:c:\users\administrator\documents\arquitectura de computadoras\mv2final\mv2final\mv2final\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
+1654116275 source:d:\facultad\arquitectura\mv2equ\mv2equ\mv2final\ejecutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+
