@@ -1,0 +1,376 @@
+# depslib dependency file v1.0
+1648923963 source:c:\users\administrator\documents\arquitectura de computadoras\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"parser.h"
+
+1648055486 c:\users\administrator\documents\arquitectura de computadoras\maquinavirtual\parser.h
+
+1649194688 source:c:\users\administrator\documents\arquitectura de computadoras\maquinavirtual\pilad.c
+	<stdio.h>
+	<stdlib.h>
+	"PilaD.h"
+
+1649194461 c:\users\administrator\documents\arquitectura de computadoras\maquinavirtual\pilad.h
+
+1649814453 source:c:\users\administrator\documents\arquitectura de computadoras\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+
+1649785569 c:\users\administrator\documents\arquitectura de computadoras\maquinavirtual\verificaoperandos.h
+
+1649817083 source:c:\users\administrator\documents\arquitectura de computadoras\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1650316579 source:d:\programasc\maquinavirtual\loquepasonome\maquinavirtual\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1648055486 d:\programasc\maquinavirtual\loquepasonome\maquinavirtual\maquinavirtual\parser.h
+
+1649785569 d:\programasc\maquinavirtual\loquepasonome\maquinavirtual\maquinavirtual\verificaoperandos.h
+
+1648923963 source:d:\programasc\maquinavirtual\loquepasonome\maquinavirtual\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"parser.h"
+
+1650314892 source:d:\programasc\maquinavirtual\loquepasonome\maquinavirtual\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1653000506 source:c:\users\acer\desktop\arq. de computadoras\maquinavirtual\maquinavirtual\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1648055486 c:\users\acer\desktop\arq. de computadoras\maquinavirtual\maquinavirtual\maquinavirtual\parser.h
+
+1649785569 c:\users\acer\desktop\arq. de computadoras\maquinavirtual\maquinavirtual\maquinavirtual\verificaoperandos.h
+
+1648923963 source:c:\users\acer\desktop\arq. de computadoras\maquinavirtual\maquinavirtual\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"parser.h"
+
+1653002104 source:c:\users\acer\desktop\arq. de computadoras\maquinavirtual\maquinavirtual\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1653360743 source:c:\users\administrator\documents\arquitectura de computadoras\mv\maquinavirtual (1)\maquinavirtual\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1648055486 c:\users\administrator\documents\arquitectura de computadoras\mv\maquinavirtual (1)\maquinavirtual\maquinavirtual\parser.h
+
+1649785569 c:\users\administrator\documents\arquitectura de computadoras\mv\maquinavirtual (1)\maquinavirtual\maquinavirtual\verificaoperandos.h
+
+1648923963 source:c:\users\administrator\documents\arquitectura de computadoras\mv\maquinavirtual (1)\maquinavirtual\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"parser.h"
+
+1653360320 source:c:\users\administrator\documents\arquitectura de computadoras\mv\maquinavirtual (1)\maquinavirtual\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1653363501 source:d:\facultad\arquitectura\cristiaaan\maquinavirtual\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1648055486 d:\facultad\arquitectura\cristiaaan\maquinavirtual\maquinavirtual\parser.h
+
+1649785569 d:\facultad\arquitectura\cristiaaan\maquinavirtual\maquinavirtual\verificaoperandos.h
+
+1648923963 source:d:\facultad\arquitectura\cristiaaan\maquinavirtual\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"parser.h"
+
+1653360320 source:d:\facultad\arquitectura\cristiaaan\maquinavirtual\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1653408281 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinafinal\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1650473508 c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinafinal\maquinavirtual\parser.h
+
+1649785569 c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinafinal\maquinavirtual\verificaoperandos.h
+
+1653408203 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinafinal\maquinavirtual\mainparser.c
+	<stdio.h>
+	"parser.h"
+
+1650473534 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinafinal\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1653360320 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinafinal\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1650473534 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\mv2\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1650473508 c:\users\administrator\documents\arquitectura de computadoras\mv - 2\mv2\maquinavirtual\parser.h
+
+1653773823 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\mv2\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1653618082 c:\users\administrator\documents\arquitectura de computadoras\mv - 2\mv2\maquinavirtual\verificaoperandos.h
+
+1653784990 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\mv2\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1653618235 source:d:\facultad\arquitectura\mv2\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1650473508 d:\facultad\arquitectura\mv2\maquinavirtual\parser.h
+
+1653618082 d:\facultad\arquitectura\mv2\maquinavirtual\verificaoperandos.h
+
+1650473534 source:d:\facultad\arquitectura\mv2\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1653618310 source:d:\facultad\arquitectura\mv2\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1650473534 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1650473508 c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinavirtual\parser.h
+
+1653618310 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1653618082 c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinavirtual\verificaoperandos.h
+
+1653762326 source:c:\users\administrator\documents\arquitectura de computadoras\mv - 2\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1653778458 source:g:\downloads\maquinavirtual (4)\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1650473508 g:\downloads\maquinavirtual (4)\maquinavirtual\parser.h
+
+1653618082 g:\downloads\maquinavirtual (4)\maquinavirtual\verificaoperandos.h
+
+1650473534 source:g:\downloads\maquinavirtual (4)\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1653773823 source:g:\downloads\maquinavirtual (4)\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1653862210 source:d:\facultad\arquitectura\mv2final\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1650473508 d:\facultad\arquitectura\mv2final\maquinavirtual\parser.h
+
+1653618082 d:\facultad\arquitectura\mv2final\maquinavirtual\verificaoperandos.h
+
+1650473534 source:d:\facultad\arquitectura\mv2final\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1653854722 source:d:\facultad\arquitectura\mv2final\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1653934525 source:d:\facultad\arquitectura\mv2final\mv2final\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1650473508 d:\facultad\arquitectura\mv2final\mv2final\maquinavirtual\parser.h
+
+1653618082 d:\facultad\arquitectura\mv2final\mv2final\maquinavirtual\verificaoperandos.h
+
+1650473534 source:d:\facultad\arquitectura\mv2final\mv2final\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1653934405 source:d:\facultad\arquitectura\mv2final\mv2final\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1653934525 source:c:\users\acer\desktop\arq. de computadoras\marto\mv2final (1)\mv2final\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1650473508 c:\users\acer\desktop\arq. de computadoras\marto\mv2final (1)\mv2final\maquinavirtual\parser.h
+
+1653618082 c:\users\acer\desktop\arq. de computadoras\marto\mv2final (1)\mv2final\maquinavirtual\verificaoperandos.h
+
+1650473534 source:c:\users\acer\desktop\arq. de computadoras\marto\mv2final (1)\mv2final\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1653934405 source:c:\users\acer\desktop\arq. de computadoras\marto\mv2final (1)\mv2final\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1650473534 source:c:\users\administrator\documents\arquitectura de computadoras\mv2final\mv2final\mv2final\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1650473508 c:\users\administrator\documents\arquitectura de computadoras\mv2final\mv2final\mv2final\maquinavirtual\parser.h
+
+1653968751 source:c:\users\administrator\documents\arquitectura de computadoras\mv2final\mv2final\mv2final\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
+1653963547 c:\users\administrator\documents\arquitectura de computadoras\mv2final\mv2final\mv2final\maquinavirtual\verificaoperandos.h
+
+1653969243 source:c:\users\administrator\documents\arquitectura de computadoras\mv2final\mv2final\mv2final\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1654108896 source:d:\facultad\arquitectura\mv2equ\mv2equ\mv2final\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	<string.h>
+	<ctype.h>
+	"verificaOperandos.h"
+
+1650473508 d:\facultad\arquitectura\mv2equ\mv2equ\mv2final\maquinavirtual\parser.h
+
+1654106965 d:\facultad\arquitectura\mv2equ\mv2equ\mv2final\maquinavirtual\verificaoperandos.h
+
+1650473534 source:d:\facultad\arquitectura\mv2equ\mv2equ\mv2final\maquinavirtual\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1654117105 source:d:\facultad\arquitectura\mv2equ\mv2equ\mv2final\maquinavirtual\verificaoperandos.c
+	<stdio.h>
+	<string.h>
+	"verificaOperandos.h"
+	<ctype.h>
+
